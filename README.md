@@ -1,0 +1,1 @@
+Simple Todo App 📝 A basic and minimal Todo App built using HTML, CSS, and JavaScript. This project helps users add, delete, and manage their daily tasks with a clean user interface. It’s a beginner-friendly project focused on DOM manipulation, event handling, and basic JavaScript logic.
